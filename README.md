@@ -1,3 +1,3 @@
 # open-cup
 
-Задачи с open cup
+Задачи из участия в open cup
